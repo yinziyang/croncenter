@@ -12,5 +12,5 @@ Usage of ./create_trust:
   -s string
     	输入登录服务器名称,多个服务器使用,分割 (不允许为空)
   -u string
-    	输入登录用户名 (default "inro")
+    	输入登录用户名,默认为当前登录用户 (default "inro")
 ```
